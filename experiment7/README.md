@@ -1,7 +1,6 @@
 # Experiment 07
 
-**Date:** 22/10/26  
-**EXP. No.:** 07  
+**Date:** 22/10/26   
 
 ## Aim
 Write a CPU bound C program and a I/O bound C program, and observe the effect of their CPU share using `top` command and its variants.
