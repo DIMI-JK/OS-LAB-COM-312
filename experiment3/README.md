@@ -1,5 +1,3 @@
-# Lab Experiments 03(a) & 03(b)
-
 ## Experiment 03(a)
 
 **Date:** 08/09/26  
