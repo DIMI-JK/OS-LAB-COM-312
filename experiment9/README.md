@@ -1,13 +1,10 @@
-# Experiment 09
+## Experiment 09
 
 **Date:** 27/10/26    
 
-## Aim
-Write a program in C that creates a child process, waits for the termination of the child, and lists its PID.
+**Aim:** Write a program in C that creates a child process, waits for the termination of the child, and lists its PID.
 
----
-
-## Theory
+### Theory
 
 * **`fork()`** : creates a new process.
 * **`PID == 0`** : indicates that the child process is running.
