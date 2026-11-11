@@ -1,4 +1,4 @@
-# Experiment 05
+## Experiment 05
 
 **Date:** 22/09/26  
 
@@ -6,10 +6,9 @@
 Write a shell script and C program to perform the following string operations:
 * To extract a substring from a given string.
 * To find the length of a given string.
-
 Compare the running time of the above shell script and C program using the `time` command.
 
-## Theory
+### Theory
 
 * **`time`** : displays current system time and can also measure how long a command takes to execute.
 * **`time ./exp5`** : runs the `exp5` executable and displays how much time it took to execute.
