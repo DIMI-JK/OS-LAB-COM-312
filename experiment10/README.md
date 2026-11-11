@@ -1,13 +1,10 @@
-# Experiment 10
+## Experiment 10
 
 **Date:** 29/10/26    
 
-## Aim
-Observing virtual memory addresses around concurrent processes in C.
+**Aim:**Observing virtual memory addresses around concurrent processes in C.
 
----
-
-## Theory
+### Theory
 
 * Every process has its own initial address space. The address of a variable can be displayed using the address operator (`&`).
 * Multiple processes can run the same program independently.
@@ -15,7 +12,7 @@ Observing virtual memory addresses around concurrent processes in C.
 
 ---
 
-## Program Compilation & Execution
+### Program Compilation & Execution
 
 ```bash
 nano exp10.c
