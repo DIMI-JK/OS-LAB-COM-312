@@ -1,7 +1,7 @@
 ## Experiment 01
 
 **Date:** 25/08/26  
-**Title:** Practice Basic Bash, I/O Redirection, Pipe, File and directory operations, Searching files, process management and text editors.
+**Aim:** Practice Basic Bash, I/O Redirection, Pipe, File and directory operations, Searching files, process management and text editors.
 
 ### Theory
 
@@ -33,7 +33,7 @@
 ## Experiment 1(b)
 
 **Date:** 01/09/26  
-**Title:** Study of Linux Process Management commands and vim/nano editor commands.
+**Aim:** Study of Linux Process Management commands and vim/nano editor commands.
 
 ### Theory
 
