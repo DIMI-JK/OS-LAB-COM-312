@@ -1,13 +1,10 @@
-# Experiment 07
+## Experiment 07
 
 **Date:** 22/10/26   
 
-## Aim
-Write a CPU bound C program and a I/O bound C program, and observe the effect of their CPU share using `top` command and its variants.
+**Aim:** Write a CPU bound C program and a I/O bound C program, and observe the effect of their CPU share using `top` command and its variants.
 
----
-
-## Theory
+### Theory
 
 * **`pgrep -a <pid>`** : to search for processes by name or pattern and display their process IDs (PID).
 * **`top -p <pid>`** : displays real time information about a specific process, including CPU usage, memory usage & process state.
