@@ -1,5 +1,4 @@
-
-# Experiment 02
+## Experiment 02
 
 **Date:** 03/09/26  
 **Aim:** Use `date` and `who` command in one line, such that the output of `date` is displayed on screen and output of `who` is redirected to a file. Write a `sed` command to swap first and second word in each line.
